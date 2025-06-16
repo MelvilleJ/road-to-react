@@ -17,7 +17,7 @@ function fetchData(name) {
   });
 }
 
-fetchData("John Doe")
+fetchData("John Doe") //You could change this here to see how the fetch handles the input
   .then(data => {
     console.log(data);
   })
