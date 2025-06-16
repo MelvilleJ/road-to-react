@@ -42,10 +42,10 @@ function addTodo() {
 }
 // Display all todo items
 function displayTodos() {
-    console.log("Todo List:");
-    todoList.forEach(todo => {
-        console.log(`ID: ${todo.id}, Title: ${todo.title}, Completed: ${todo.completed}`);
-    });
+   todoList.map(todo => {
+    const status = todo.completed ? "[✓]" : "[ ]";
+    console.log(`${status} ${todo.title} (ID: ${todo.id})`);
+  });
 }
 // Remove a todo item by ID
 function removeTodo(id) {
