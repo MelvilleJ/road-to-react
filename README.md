@@ -6,3 +6,19 @@ Week 1 JavaScript
       Destructuring, Spread & Rest syntax, this keyword, Closures, Callbacks, setTimeout / setInterval
 -- 2. Project using these concepts : Todo List
 Week 2 Javascript Wrap-up
+(6/27/2025)Took a break to deal with projects in work
+Now that im back ill say im relativly ready to jump into react so im giving myself a project
+
+STACK-
+Reactjs
+Nodejs
+POSTGRE SQL 
+Swift for mobile
+SQLLite for mobile
+
+Project- Budjecting application
+
+Description-
+As of right now I use Excel to bugdet my Salary calculate my Investments and Savings. Excel is fine for this but I am a Computer Science Gradutate.
+I want to create this system to add to my portfolio and add to my day to day happenings.
+ 
